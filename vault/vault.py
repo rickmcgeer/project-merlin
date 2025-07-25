@@ -1,0 +1,1 @@
+# Vault Implementation Stub
