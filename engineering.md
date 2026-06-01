@@ -5,6 +5,12 @@ Date: May 31, 2026
 Authors: Rick McGeer & Aiko
 ## The Fundamental Shift
 We are entering an era in which AIs will be primary consumers, extenders, and authors of software. This requires us to consciously evolve our engineering practices.
+## On Humans and AI
+A cautionary (and hopeful) story from the past illustrates the future of AI.
+In the 1980s, the Computer-Aided Design group at UC Berkeley under Alberto Sangiovanni-Vincentelli, Richard Newton, and Bob Brayton, developed CAD tools for integrated circuit design. The problems were provably hard and the instances were enormous. Many people — especially non-technical executives — believed these tools would replace human designers. “Silicon Compilers” were hyped as a way to generate chips with almost no human involvement.
+The reality was more nuanced and instructive.
+Tools used without skilled human designers made royal messes. But when placed in the hands of expert engineers, the same tools dramatically amplified their productivity. Not a single  designer lost their job. Instead, designers became far more valuable because they could tackle vastly more complex chips. The best engineers didn’t fear the tools — they mastered them, scripted them, and used them as extensions of their own thinking.
+The lesson is clear: AI will amplify human capability, not replace it.  And to work with AI effectively, humans need to design interfaces and data structures with AI in mind.
 ## Core Principles
 ### 1. Strong Discovery is Foundational
 Every library, service, and module must be self-describing. Discovery is the modern equivalent of documentation.
